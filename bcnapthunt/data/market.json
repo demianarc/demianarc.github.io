@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T12:34:32.355Z",
+  "generatedAt": "2026-10-12T16:15:09.824Z",
   "criteria": {
     "minPrice": 400000,
     "maxPrice": 600000,
@@ -34468,6 +34468,155 @@
       "yearBuilt": 1978
     },
     {
+      "id": "idealista:111958238",
+      "source": "idealista",
+      "sourceName": "Idealista",
+      "url": "https://www.idealista.com/en/inmueble/111958238/",
+      "title": "Mallorca, El Camp de l'Arpa del Clot, Barcelona",
+      "neighborhood": "El Camp de l'Arpa del Clot",
+      "price": 465000,
+      "pricePerM2": 5284,
+      "sizeM2": 88,
+      "bedrooms": 4,
+      "floor": "2nd floor",
+      "hasLift": true,
+      "exterior": true,
+      "terrace": false,
+      "balcony": false,
+      "orientation": "South & West",
+      "orientationConfidence": "confirmed",
+      "description": "4 bed.88 m²2nd floor exterior with lift Spacious and bright apartment for sale in Sagrada Familia! Discover this fantastic home located in one of Barcelona's most sought-after areas, the emblematic Sagrada Familia neighborhood. An ideal apartment for families or those seeking space, comfort, and an excellent location.",
+      "imageUrl": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/6c/07/52/1453979943.jpg",
+      "imageUrls": [
+        "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/6c/07/52/1453979943.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-M-L/0/id.pro.es.image.master/c9/58/27/1453979939.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-M-L/0/id.pro.es.image.master/50/9d/69/1453979909.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/75/0d/52/1454212306.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/83/f5/3d/1453979947.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/0e/8b/bf/1453979941.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/a3/95/c0/1453979945.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/89/c9/c9/1453979921.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/94/da/8a/1453979922.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/68/ea/fa/1453979923.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/b1/39/1a/1453979924.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/c4/83/09/1453979949.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/19/1b/2d/1453979900.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/0e/aa/29/1453979950.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/12/2b/82/1453979951.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/61/77/c0/1453979952.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/d5/db/c3/1453979927.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/1f/88/1f/1454044041.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/8e/f1/6c/1453979956.jpg"
+      ],
+      "agency": "",
+      "latitude": 41.410409712752774,
+      "longitude": 2.181011769177977,
+      "locationPrecision": "neighborhood",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-10-12",
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-18",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-19",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-20",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-21",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-22",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-23",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-24",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-25",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-26",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-27",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-28",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-29",
+          "price": 485000
+        },
+        {
+          "date": "2026-09-30",
+          "price": 485000
+        },
+        {
+          "date": "2026-10-01",
+          "price": 485000
+        },
+        {
+          "date": "2026-10-02",
+          "price": 465000
+        },
+        {
+          "date": "2026-10-03",
+          "price": 465000
+        },
+        {
+          "date": "2026-10-04",
+          "price": 465000
+        },
+        {
+          "date": "2026-10-08",
+          "price": 465000
+        },
+        {
+          "date": "2026-10-09",
+          "price": 465000
+        },
+        {
+          "date": "2026-10-10",
+          "price": 465000
+        },
+        {
+          "date": "2026-10-11",
+          "price": 465000
+        },
+        {
+          "date": "2026-10-12",
+          "price": 465000
+        }
+      ],
+      "whyGood": "Stands out for south & west exposure.",
+      "watchOut": "Verify usable area, community finances, ITE status and the legality of alterations or outdoor space.",
+      "neighborhoodMedianPerM2": 5526,
+      "discountToNeighborhoodPct": 4,
+      "gemScore": 71,
+      "previousPrice": 485000,
+      "yearBuilt": 1980
+    },
+    {
       "id": "idealista:111782075",
       "source": "idealista",
       "sourceName": "Idealista",
@@ -42314,6 +42463,285 @@
       "yearBuilt": 1900
     },
     {
+      "id": "idealista:111464402",
+      "source": "idealista",
+      "sourceName": "Idealista",
+      "url": "https://www.idealista.com/en/inmueble/111464402/",
+      "title": "Calle de Muntaner, L'Antiga Esquerra de l'Eixample, Barcelona",
+      "neighborhood": "L'Antiga Esquerra de l'Eixample",
+      "price": 530000,
+      "pricePerM2": 5955,
+      "sizeM2": 89,
+      "bedrooms": 3,
+      "floor": "3rd floor",
+      "hasLift": true,
+      "exterior": true,
+      "terrace": false,
+      "balcony": false,
+      "orientation": "East",
+      "orientationConfidence": "confirmed",
+      "description": "3 bed.89 m²3rd floor exterior with lift Housfy sells a fantastic apartment located in Barcelona, which consists of 76m2 of usable space (verified with the General Directorate of Cadastre). Built in the year: 1981 Room distribution",
+      "imageUrl": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/fb/08/33/1437402778.jpg",
+      "imageUrls": [
+        "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/fb/08/33/1437402778.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-M-L/0/id.pro.es.image.master/ab/91/00/1437402779.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-M-L/0/id.pro.es.image.master/b6/d4/4a/1437402791.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/55/3a/4f/1437402792.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/bc/9d/b8/1437402793.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/61/f5/4b/1437402794.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/e8/8b/46/1437402780.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/28/b7/08/1437402718.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/0d/a0/08/1437402795.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/83/a8/1b/1437402719.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/a9/d8/00/1437402720.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/41/55/f3/1437402782.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/af/5f/2b/1437402796.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/aa/2d/e4/1437402797.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/02/1e/71/1437402798.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/a2/c6/97/1437402799.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/8f/68/41/1437402800.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/eb/27/4f/1437402801.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/78/a1/63/1437402802.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/fd/12/5e/1437402803.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/a7/ff/98/1437402804.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/52/46/ea/1437402815.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/51/d8/5b/1437402721.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/b0/98/d1/1437402722.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/a1/03/81/1437402723.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/ac/aa/03/1437402724.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/96/b5/e6/1437402783.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/f8/14/cf/1479235316.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/b6/66/c9/1437402784.jpg"
+      ],
+      "agency": "",
+      "latitude": 41.39023198831239,
+      "longitude": 2.1574308315974036,
+      "locationPrecision": "neighborhood",
+      "firstSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-10-12",
+      "priceHistory": [
+        {
+          "date": "2026-08-21",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-22",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-23",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-24",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-25",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-26",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-27",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-28",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-29",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-30",
+          "price": 545000
+        },
+        {
+          "date": "2026-08-31",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-01",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-02",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-03",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-04",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-05",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-06",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-07",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-08",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-09",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-10",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-11",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-12",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-13",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-14",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-15",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-16",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-17",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-18",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-19",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-20",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-21",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-22",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-23",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-24",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-25",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-26",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-27",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-28",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-29",
+          "price": 545000
+        },
+        {
+          "date": "2026-09-30",
+          "price": 545000
+        },
+        {
+          "date": "2026-10-01",
+          "price": 545000
+        },
+        {
+          "date": "2026-10-02",
+          "price": 545000
+        },
+        {
+          "date": "2026-10-03",
+          "price": 545000
+        },
+        {
+          "date": "2026-10-04",
+          "price": 545000
+        },
+        {
+          "date": "2026-10-05",
+          "price": 545000
+        },
+        {
+          "date": "2026-10-06",
+          "price": 545000
+        },
+        {
+          "date": "2026-10-07",
+          "price": 545000
+        },
+        {
+          "date": "2026-10-08",
+          "price": 530000
+        },
+        {
+          "date": "2026-10-09",
+          "price": 530000
+        },
+        {
+          "date": "2026-10-10",
+          "price": 530000
+        },
+        {
+          "date": "2026-10-11",
+          "price": 530000
+        },
+        {
+          "date": "2026-10-12",
+          "price": 530000
+        }
+      ],
+      "whyGood": "Stands out for 8% below the local median €/m², east exposure.",
+      "watchOut": "Verify usable area, community finances, ITE status and the legality of alterations or outdoor space.",
+      "neighborhoodMedianPerM2": 6484,
+      "discountToNeighborhoodPct": 8,
+      "gemScore": 66,
+      "previousPrice": 545000,
+      "yearBuilt": 1981
+    },
+    {
       "id": "idealista:112773250",
       "source": "idealista",
       "sourceName": "Idealista",
@@ -49615,136 +50043,6 @@
       "yearBuilt": 1971
     },
     {
-      "id": "idealista:111958238",
-      "source": "idealista",
-      "sourceName": "Idealista",
-      "url": "https://www.idealista.com/en/inmueble/111958238/",
-      "title": "Mallorca, El Camp de l'Arpa del Clot, Barcelona",
-      "neighborhood": "El Camp de l'Arpa del Clot",
-      "price": 465000,
-      "pricePerM2": 5284,
-      "sizeM2": 88,
-      "bedrooms": 4,
-      "floor": "2nd floor",
-      "hasLift": true,
-      "exterior": true,
-      "terrace": false,
-      "balcony": false,
-      "orientation": "Not stated",
-      "orientationConfidence": "unknown",
-      "description": "4 bed.88 m²2nd floor exterior with lift Spacious and bright apartment for sale in Sagrada Familia! Discover this fantastic home located in one of Barcelona's most sought-after areas, the emblematic Sagrada Familia neighborhood. An ideal apartment for families or those seeking space, comfort, and an excellent location.",
-      "imageUrl": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6c/07/52/1453979943.jpg",
-      "imageUrls": [
-        "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6c/07/52/1453979943.jpg"
-      ],
-      "agency": "",
-      "latitude": 41.410409712752774,
-      "longitude": 2.181011769177977,
-      "locationPrecision": "neighborhood",
-      "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-10-12",
-      "priceHistory": [
-        {
-          "date": "2026-09-17",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-18",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-19",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-20",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-21",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-22",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-23",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-24",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-25",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-26",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-27",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-28",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-29",
-          "price": 485000
-        },
-        {
-          "date": "2026-09-30",
-          "price": 485000
-        },
-        {
-          "date": "2026-10-01",
-          "price": 485000
-        },
-        {
-          "date": "2026-10-02",
-          "price": 465000
-        },
-        {
-          "date": "2026-10-03",
-          "price": 465000
-        },
-        {
-          "date": "2026-10-04",
-          "price": 465000
-        },
-        {
-          "date": "2026-10-08",
-          "price": 465000
-        },
-        {
-          "date": "2026-10-09",
-          "price": 465000
-        },
-        {
-          "date": "2026-10-10",
-          "price": 465000
-        },
-        {
-          "date": "2026-10-11",
-          "price": 465000
-        },
-        {
-          "date": "2026-10-12",
-          "price": 465000
-        }
-      ],
-      "whyGood": "It clears the hard search criteria but needs a stronger value or quality edge.",
-      "watchOut": "Confirm orientation and direct-light hours with a compass at the viewing.",
-      "neighborhoodMedianPerM2": 5526,
-      "discountToNeighborhoodPct": 4,
-      "gemScore": 62,
-      "previousPrice": 485000
-    },
-    {
       "id": "idealista:111124195",
       "source": "idealista",
       "sourceName": "Idealista",
@@ -52542,256 +52840,6 @@
       "previousPrice": 435000
     },
     {
-      "id": "idealista:111464402",
-      "source": "idealista",
-      "sourceName": "Idealista",
-      "url": "https://www.idealista.com/en/inmueble/111464402/",
-      "title": "Calle de Muntaner, L'Antiga Esquerra de l'Eixample, Barcelona",
-      "neighborhood": "L'Antiga Esquerra de l'Eixample",
-      "price": 530000,
-      "pricePerM2": 5955,
-      "sizeM2": 89,
-      "bedrooms": 3,
-      "floor": "3rd floor",
-      "hasLift": true,
-      "exterior": true,
-      "terrace": false,
-      "balcony": false,
-      "orientation": "Not stated",
-      "orientationConfidence": "unknown",
-      "description": "3 bed.89 m²3rd floor exterior with lift Housfy sells a fantastic apartment located in Barcelona, which consists of 76m2 of usable space (verified with the General Directorate of Cadastre). Built in the year: 1981 Room distribution",
-      "imageUrl": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fb/08/33/1437402778.jpg",
-      "imageUrls": [
-        "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fb/08/33/1437402778.jpg"
-      ],
-      "agency": "",
-      "latitude": 41.39023198831239,
-      "longitude": 2.1574308315974036,
-      "locationPrecision": "neighborhood",
-      "firstSeenAt": "2026-08-21",
-      "lastSeenAt": "2026-10-12",
-      "priceHistory": [
-        {
-          "date": "2026-08-21",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-22",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-23",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-24",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-25",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-26",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-27",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-28",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-29",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-30",
-          "price": 545000
-        },
-        {
-          "date": "2026-08-31",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-01",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-02",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-03",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-04",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-05",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-06",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-07",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-08",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-09",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-10",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-11",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-12",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-13",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-14",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-15",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-16",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-17",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-18",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-19",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-20",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-21",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-22",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-23",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-24",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-25",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-26",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-27",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-28",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-29",
-          "price": 545000
-        },
-        {
-          "date": "2026-09-30",
-          "price": 545000
-        },
-        {
-          "date": "2026-10-01",
-          "price": 545000
-        },
-        {
-          "date": "2026-10-02",
-          "price": 545000
-        },
-        {
-          "date": "2026-10-03",
-          "price": 545000
-        },
-        {
-          "date": "2026-10-04",
-          "price": 545000
-        },
-        {
-          "date": "2026-10-05",
-          "price": 545000
-        },
-        {
-          "date": "2026-10-06",
-          "price": 545000
-        },
-        {
-          "date": "2026-10-07",
-          "price": 545000
-        },
-        {
-          "date": "2026-10-08",
-          "price": 530000
-        },
-        {
-          "date": "2026-10-09",
-          "price": 530000
-        },
-        {
-          "date": "2026-10-10",
-          "price": 530000
-        },
-        {
-          "date": "2026-10-11",
-          "price": 530000
-        },
-        {
-          "date": "2026-10-12",
-          "price": 530000
-        }
-      ],
-      "whyGood": "Stands out for 8% below the local median €/m².",
-      "watchOut": "Confirm orientation and direct-light hours with a compass at the viewing.",
-      "neighborhoodMedianPerM2": 6484,
-      "discountToNeighborhoodPct": 8,
-      "gemScore": 60,
-      "previousPrice": 545000
-    },
-    {
       "id": "idealista:112731083",
       "source": "idealista",
       "sourceName": "Idealista",
@@ -52810,9 +52858,9 @@
       "orientation": "Not stated",
       "orientationConfidence": "unknown",
       "description": "Brand new, fully renovated apartment with a balcony in Sagrada Família There are homes that are not just renovated, but truly brand new. This fantastic apartment, located on a real 4th floor with an elevator, has been completely renovated to offer a modern, bright home ready to be enjoyed from day one. Design, light,",
-      "imageUrl": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/51/e7/41/1480167373.jpg",
+      "imageUrl": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/51/e7/41/1480167373.jpg",
       "imageUrls": [
-        "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/51/e7/41/1480167373.jpg"
+        "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/51/e7/41/1480167373.jpg"
       ],
       "agency": "",
       "latitude": 41.403336395592156,
@@ -52875,9 +52923,38 @@
       "orientation": "Not stated",
       "orientationConfidence": "unknown",
       "description": "LU-EIXAMPLE Brand new, fully renovated apartment with a balcony in Sagrada Família There are homes that are not just renovated, but truly brand new. This fantastic apartment, located on a 4th real floor with an elevator, has been completely renovated to offer a modern, bright home ready to be enjoyed from day one. Des",
-      "imageUrl": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2f/40/03/1481321158.jpg",
+      "imageUrl": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/2f/40/03/1481321158.jpg",
       "imageUrls": [
-        "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2f/40/03/1481321158.jpg"
+        "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/2f/40/03/1481321158.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/c0/40/04/1481321161.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/45/65/33/1481321163.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/81/e5/66/1481321195.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/b9/9b/37/1481321197.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/aa/b7/bb/1481321199.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/59/30/7e/1481321203.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/70/4a/0f/1481321120.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/02/2a/bc/1481321122.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/28/b1/cc/1481321123.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/a7/20/44/1481321225.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/cd/6b/d3/1481321227.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/05/e6/c8/1481321229.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/60/92/64/1481321231.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/c6/8a/06/1481321233.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/5c/b9/48/1481321234.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/d4/fb/4a/1481321245.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/36/0e/fb/1481321246.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/3b/5b/0b/1481321247.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/28/a7/ab/1481321248.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/45/75/62/1481321249.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/3b/1a/72/1481321250.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/08/3f/a6/1481321267.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/84/3b/b4/1481321268.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/cf/26/51/1481321269.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/53/6a/a7/1481321275.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/7d/53/56/1481321271.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/d7/24/fc/1481321242.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/24/5a/f5/1481321244.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/92/68/5c/1481321305.jpg"
       ],
       "agency": "",
       "latitude": 41.40165271853473,
@@ -52911,7 +52988,8 @@
       "watchOut": "Confirm orientation and direct-light hours with a compass at the viewing. Price the renovation before offering and keep a contingency.",
       "neighborhoodMedianPerM2": 5481,
       "discountToNeighborhoodPct": -8,
-      "gemScore": 60
+      "gemScore": 60,
+      "yearBuilt": 1961
     },
     {
       "id": "idealista:112579441",
@@ -56002,9 +56080,22 @@
       "orientation": "Not stated",
       "orientationConfidence": "unknown",
       "description": "3 bed.107 m²2nd floor exterior with lift Designer apartment in Sant Antoni: Move in now! (With Catalan vaulted ceilings) If you are looking for the perfect combination of authentic Barcelona and modern comfort, this is your apartment. Located in the heart of Sant Antoni, just a few steps from the metro and the iconic, recently renovated market. An area with c",
-      "imageUrl": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/38/e5/4e/1474692615.jpg",
+      "imageUrl": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/38/e5/4e/1474692615.jpg",
       "imageUrls": [
-        "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/38/e5/4e/1474692615.jpg"
+        "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/38/e5/4e/1474692615.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-M-L/0/id.pro.es.image.master/f4/6f/f9/1474692617.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL-M-L/0/id.pro.es.image.master/12/89/a0/1474692598.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/3b/93/d9/1474692620.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/e7/94/51/1474692621.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/0c/6b/1d/1474692599.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/60/37/7a/1474692623.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/77/f5/36/1474692624.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/2f/5b/c1/1474692593.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/24/01/89/1474692594.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/2b/32/8d/1474692627.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/06/91/fb/1474692636.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/21/c9/04/1474692603.jpg",
+        "https://img4.idealista.com/blur/WEB_DETAIL/0/id.pro.es.image.master/de/b8/82/1474692655.jpg"
       ],
       "agency": "",
       "latitude": 41.37871990020916,
