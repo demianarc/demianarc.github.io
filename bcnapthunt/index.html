@@ -15,15 +15,17 @@
     <script type="importmap">
       {"imports":{"maplibre-gl":"https://esm.sh/maplibre-gl@6.1.0"}}
     </script>
-    <script type="module" crossorigin src="/bcnapthunt/assets/main-CikRB3Ox-r2.js"></script>
-    <link rel="modulepreload" crossorigin href="/bcnapthunt/assets/home-scout-dashboard-CS5-_NBX-r2.js">
-    <link rel="stylesheet" crossorigin href="/bcnapthunt/assets/home-scout-dashboard-4Jvb_eRn-r2.css">
+    <script type="module" crossorigin src="/bcnapthunt/assets/main-BJDlQ6f0-r2.js"></script>
+    <link rel="modulepreload" crossorigin href="/bcnapthunt/assets/home-scout-dashboard-CH1ycpBa-r2.js">
+    <link rel="stylesheet" crossorigin href="/bcnapthunt/assets/home-scout-dashboard-BFxA8Ckh-r2.css">
   </head>
   <body>
     <div id="root"></div>
     <script>
       if (window.location.protocol === "file:") {
         window.location.replace(`https://demianarc.github.io/bcnapthunt/${window.location.hash}`);
+      } else if (window.location.hash === "#finance") {
+        window.location.replace(new URL("finance/", window.location.href));
       }
     </script>
   </body>
